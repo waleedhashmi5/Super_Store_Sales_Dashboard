@@ -3,6 +3,7 @@ An interactive sales analytics dashboard developed
 using Microsoft Power BI to visualize sales, profit, customer segments, and regional performance.
 The project utilizes DAX queries, KPI reporting, and dynamic visualizations
 to generate business insights and support data-driven decision making.
+
 🚀 Features
 
 * Interactive dashboard with regional filters
